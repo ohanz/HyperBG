@@ -16,7 +16,7 @@
 <ul>
   <li>Download or clone the repository</li>
 <pre><code>
-  git clone https://github.com/ohanz/.git
+  git clone https://github.com/ohanz/HyperBG.git
 </code></pre>
   
   <li>Go to the directory</li>
